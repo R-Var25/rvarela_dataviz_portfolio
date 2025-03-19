@@ -11,27 +11,22 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello! My name is Rebeca Amanda Varela (She/Her) and I am a born and raised New Yorker. While I'm originally from the Bronx, I grew up all over the city, from Washington Heights to Chinatown. I spent all my life in the greatest city in the world, including my undergrad at The City College of New York, where I double majored in Economics, with a focus in Finance, and Theatre, minoring in English. 
+
+I am part of the MEIM program at Heinz. Ever since I was small, I have always loved the art form of story-telling regardless of what medium it is told in. Movies have been there for every single milestone of my life, bringing joy to many dark times. With the entertainment industry constricting and relying more and more on technology, I still want to aid in giving those same smiles to the next generation, which is becoming more and more dependent on data for every decision.   
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. Being able to recognize different types of data visualizations and decipher when to use them. 
+2. Understand how to utilize design elements to enhance the narrative you want to tell. 
+3. Being able to create visualizations that effectively communicate my message to all people, not just those in the industry.    
 
-or...
 
-- List item #1
-- List item #2
-- List item #3
 
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
