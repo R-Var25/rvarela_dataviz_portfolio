@@ -16,7 +16,7 @@ Hello! My name is Rebeca Amanda Varela (She/Her) and I am a born and raised New 
 I am part of the MEIM program at Heinz. Ever since I was small, I have always loved the art form of story-telling regardless of what medium it is told in. Movies have been there for every single milestone of my life, bringing joy to many dark times. With the entertainment industry constricting and relying more and more on technology, I still want to aid in giving those same smiles to the next generation, which is becoming more and more dependent on data for every decision.   
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+All the things - obviously. However, there are three main objectives I want to achieve at the end of this course.  If so, I can do so in Markdown like this: 
 
 1. Being able to recognize different types of data visualizations and decipher when to use them. 
 2. Understand how to utilize design elements to enhance the narrative you want to tell. 
