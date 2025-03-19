@@ -1,19 +1,13 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
 Hello! My name is Rebeca Amanda Varela (She/Her) and I am a born and raised New Yorker. While I'm originally from the Bronx, I grew up all over the city, from Washington Heights to Chinatown. I spent all my life in the greatest city in the world, including my undergrad at The City College of New York, where I double majored in Economics, with a focus in Finance, and Theatre, minoring in English. 
 
-I am part of the MEIM program at Heinz. Ever since I was small, I have always loved the art form of story-telling regardless of what medium it is told in. Movies have been there for every single milestone of my life, bringing joy to many dark times. With the entertainment industry constricting and relying more and more on technology, I still want to aid in giving those same smiles to the next generation, which is becoming more and more dependent on data for every decision.   
+I am part of the Masters of Entertainment Industry Management (MEIM) program at Heinz at Carnegie Mellon University. Ever since I was small, I have always loved the art form of story-telling regardless of what medium it is told in. Movies have been there for every single milestone of my life, bringing joy to many dark times. With the entertainment industry constricting and relying more and more on technology, I still want to aid in giving those same smiles to the next generation, which is becoming more and more dependent on data for every decision.
+
+My prior experience has trained me to see both the creative and analytical lenses of each situation. While I do not have much technical experience, I am always open to learning new skills, as in life we never stop learning. I am looking forward to everything that Telling Stories with Data will teach on data visualizations and how they can enhance narratives for everyone to understand. I invite you to browse my work and welcome you to this eclectic portfolio! 
+
 
 # What I hope to learn
 All the things - obviously. However, there are three main objectives I want to achieve at the end of this course.  If so, I can do so in Markdown like this: 
@@ -26,22 +20,26 @@ All the things - obviously. However, there are three main objectives I want to a
 
 # Portfolio
 
-## Assignment: [Visualizing Government Debt](visualizing-government-debt)
+## Telling Stories with Data
+
+Telling Stories with Data had us create different data visualizations to enhance diverse narratives. Here is what we have made in the course.  
+
+### First Assignment: [Visualizing Government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+### Second Assignment: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
-## Final Project
+### Final Project
 Here it might be helpful to include a high-level description of your final project. 
 
-### Final Project: Part 1
+#### Final Project: Part 1
 [Part I](final-project-part-one)
 
-### Final Project: Part 2
+#### Final Project: Part 2
 [Part II](final-project-part-two)
 
-### Final Project: Part 3
+#### Final Project: Part 3
 Part III(final-project-part-three)
 
 ---
