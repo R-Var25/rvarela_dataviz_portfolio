@@ -10,11 +10,13 @@ My prior experience has trained me to see both the creative and analytical lense
 
 
 # What I hope to learn
-All the things - obviously. However, there are three main objectives I want to achieve at the end of this course.  If so, I can do so in Markdown like this: 
+All the things - obviously. However, there are three main objectives I want to achieve at the end of this course.  
 
 1. Being able to recognize different types of data visualizations and decipher when to use them. 
 2. Understand how to utilize design elements to enhance the narrative you want to tell. 
-3. Being able to create visualizations that effectively communicate my message to all people, not just those in the industry.    
+3. Being able to create visualizations that effectively communicate my message to all people, not just those in the industry.
+
+I am currently interested in working in the world of Film and Television through development and acquisitions, with a specialization in adaptations of prior existing media such as novels and games. However, I am open to working in a multitude of industries and disciplines, as I have way too many interests that I would like to follow.     
 
 
 
