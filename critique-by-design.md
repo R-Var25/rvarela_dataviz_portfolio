@@ -4,6 +4,8 @@
 
 ## Step One: The Visualization
 
+The screenshot below showcases the data visualization that I chose for this assignment: 
+
 ![Screenshot 2025-04-02 at 12.30.38 PM.jpeg](Screenshot 2025-04-02 at 12.30.38 PM.jpeg)
 
 
@@ -13,12 +15,21 @@ While looking for possible data visualizations, I tried to find one that spoke t
 
 
 
-## Step two: The Critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+## Step Two: The Critique
 
-## Step three: Sketch a solution
+There were three main issues that I had with this data visualization: 
 
-Here is the first draft of the data visualization I prepared with the data set. 
+1. Clarity: There was no title to the map, and the data being showcased on it. Due to this, it took a while to realize what was being shown through the map. The lack of a legend or a key for the map also added to the difficulty in understanding the message of the map.
+2. Lack of Narrative: While the interactive map was interesting, the whole visualization ended up coming across as a collection of random data points. There is no narrative being told through these data points, which makes the audience feel like they are wasting their time.
+3. Color Scheme: While the use of the red family does coincide with the theme of pizza, it makes the map extremely hard to read as the colors often either overlap or mask each other. It makes the entire map extremely difficult to read, which goes against its purpose.
+
+
+
+
+
+## Step Three: Sketch a solution
+
+Here is the first draft of the data visualization I prepared with the dataset. 
 
 <div class='tableauPlaceholder' id='viz1743635961593' style='position: relative'>
     <noscript>
