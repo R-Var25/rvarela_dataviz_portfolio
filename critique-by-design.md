@@ -58,9 +58,7 @@ Here is the first draft of the data visualization I prepared with the data set.
     });
 </script>
 
-### AI Discalimer
 
-Chat GBT was used as Tech Support to aid with embedding. 
 
 ## Step four: Test the solution
 
