@@ -16,30 +16,47 @@ _Don't forget to complete the Google Form found on the assignment page.  You can
 
 Here is the first draft of the data visualization I prepared with the data set. 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tableau Visualization</title>
-    <style>
-        iframe {
-            width: 100%;
-            height: 700px;
-            border: none;
+<div class='tableauPlaceholder' id='viz1743613388700' style='position: relative'>
+    <noscript>
+        <a href='#'>
+            <img alt='A Plain Slice Now Costs More than a Metro Card Swipe By: Rebeca Varela 
+            Source: Quigley, Liam. “NYC Slice.” Liam Quigley. Accessed March 29, 2025.' 
+            src='https://public.tableau.com/static/images/ma/makeovermondaywip_v2024_3/Sheet1/1.png' 
+            style='border: none' />
+        </a>
+    </noscript>
+    <object class='tableauViz' style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+        <param name='embed_code_version' value='3' /> 
+        <param name='site_root' value='' />
+        <param name='name' value='makeovermondaywip_v2024_3/Sheet1' />
+        <param name='tabs' value='no' />
+        <param name='toolbar' value='yes' />
+        <param name='static_image' value='https://public.tableau.com/static/images/ma/makeovermondaywip_v2024_3/Sheet1/1.png' />
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='language' value='en-US' />
+    </object>
+</div>
+
+<script type='text/javascript'>
+    document.addEventListener("DOMContentLoaded", function () {
+        var divElement = document.getElementById('viz1743613388700');
+        var vizElement = divElement.getElementsByTagName('object')[0];
+
+        if (vizElement) {
+            vizElement.style.width = '100%';
+            vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+
+            var scriptElement = document.createElement('script');
+            scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+            document.body.appendChild(scriptElement);
         }
-    </style>
-</head>
-<body>
-    <h2>A Plain Slice Now Costs More than a Metro Card Swipe</h2>
-    <p>By: Rebeca Varela</p>
-    <p>Source: <a href="https://elkue.com/nyc-slice/" target="_blank">Quigley, Liam - NYC Slice</a></p>
-    
-    <iframe src="https://public.tableau.com/views/makeovermondaywip_v2024_3/Sheet1?:showVizHome=no&:embed=true"
-            allowfullscreen>
-    </iframe>
-</body>
-</html>
+    });
+</script>
 
 ### AI Discalimer
 
