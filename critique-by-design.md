@@ -4,7 +4,8 @@
 
 ## Step One: The Visualization
 
-![12.30.38 PM.jpeg](12.30.38 PM.jpeg)
+![Screenshot 2025-04-02 at 12.30.38 PM.jpeg](Screenshot 2025-04-02 at 12.30.38 PM.jpeg)
+
 
 Source: https://elkue.com/nyc-slice/
 
