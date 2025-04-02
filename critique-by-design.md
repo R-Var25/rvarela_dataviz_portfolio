@@ -98,12 +98,21 @@ _Include and describe your final solution here. It's also a good idea to summari
 
 
 
+   <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tableau Embed</title>
+</head>
+<body>
+
     <div class='tableauPlaceholder' id='viz1743622612949' style='position: relative'>
         <noscript>
             <a href='#'>
-                <img alt='A Plain Slice of Pizza Now Costs More Than A Metro Card Swipe 
+                <img alt='A Plain Slice of Pizza Now Costs More Than A Metro Card Swipe
                 By: Rebeca Amanda Varela 
-                Sources: Oldenburg, Ben. “NYC Transit Fare History.” Observable, August 16, 2023. 
+                Sources: Oldenburg, Ben. “NYC Transit Fare History.” Observable, August 16, 2023.
                 https://observablehq.com/@benoldenburg/nyc-transit-fare-history. Quigley, Liam.' 
                 src='https://public.tableau.com/static/images/Pi/PizzavMetroCard_v2024_3/Sheet3/1_rss.png' 
                 style='border: none' />
@@ -135,6 +144,11 @@ _Include and describe your final solution here. It's also a good idea to summari
         scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
         vizElement.parentNode.insertBefore(scriptElement, vizElement);
     </script>
+
+</body>
+</html>
+
+    
 
 
 
