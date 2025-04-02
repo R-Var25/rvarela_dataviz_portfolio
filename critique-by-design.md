@@ -2,14 +2,17 @@
 
 # Critique by Design: MakeOver Monday Assignment 
 
-## Step one: The Visualization
-
-While looking for possible data visualizations, I tried to find one that spoke to me personally. I have already told all of you that I am from New York City, the Bronx in particular, and how my home has played a huge part in my life. One thing NYC is known for, and we New Yorkers take very seriously, is Pizza. I cannot tell you the total amount of slices I have had   
+## Step One: The Visualization
 
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
-## Step two: the critique
+Source: https://elkue.com/nyc-slice/
+
+While looking for possible data visualizations, I tried to find one that spoke to me personally. I have already told all of you that I am from New York City, the Bronx in particular, and how my home has played a huge part in my life. One thing NYC is known for, and we New Yorkers take very seriously, is Pizza. I cannot tell you the total number of slices I have had in my lifetime. I have a vivid memory of getting out of school by 2:45 pm and running with my friends to the nearest pizza parlor to get our daily slice. So, when I came across this data visualization on the MakeOver Monday website, I knew it was a perfect match. I am a New Yorker who loves food, who in fact, is still very passionate about pizza. I was very interested in learning more about the subject. While I was excited to see a map of the five boroughs through pizza, that slowly washed away once I began to look at it more closely.        
+
+
+
+## Step two: The Critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
 ## Step three: Sketch a solution
