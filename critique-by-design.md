@@ -2,9 +2,9 @@
 
 # Critique by Design: MakeOver Monday Assignment 
 
-## Step one: the visualization
+## Step one: The Visualization
 
-While looking for possible data visualizations 
+While looking for possible data visualizations, I tried to find one that spoke to me personally. I have already told all of you that I am from New York City, the Bronx in particular, and how my home has played a huge part in my life. One thing NYC is known for, and we New Yorkers take very seriously, is Pizza. I cannot tell you the total amount of slices I have had   
 
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
@@ -96,6 +96,51 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 ## Step five: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+
+
+<div class='tableauPlaceholder' id='viz1743616666333' style='position: relative'>
+    <noscript>
+        <a href='#'>
+            <img alt='A Plain Slice of Pizza Now Costs More Than A Metro Card Swipe By: Rebeca Amanda Varela' 
+            src='https://public.tableau.com/static/images/Pi/PizzavMetroCardPrices/Sheet3/1.png' 
+            style='border: none' />
+        </a>
+    </noscript>
+    <object class='tableauViz' style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+        <param name='embed_code_version' value='3' /> 
+        <param name='site_root' value='' />
+        <param name='name' value='PizzavMetroCardPrices/Sheet3' />
+        <param name='tabs' value='no' />
+        <param name='toolbar' value='yes' />
+        <param name='static_image' value='https://public.tableau.com/static/images/Pi/PizzavMetroCardPrices/Sheet3/1.png' />
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='language' value='en-US' />
+    </object>
+</div>
+
+<script type='text/javascript'>
+    document.addEventListener("DOMContentLoaded", function () {
+        var divElement = document.getElementById('viz1743616666333');
+        var vizElement = divElement.getElementsByTagName('object')[0];
+
+        if (vizElement) {
+            vizElement.style.width = '100%';
+            vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+
+            var scriptElement = document.createElement('script');
+            scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+            document.body.appendChild(scriptElement);
+        }
+    });
+
+
+
+
 
 ## References
 _List any references you used here._
