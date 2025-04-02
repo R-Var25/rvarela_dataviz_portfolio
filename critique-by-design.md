@@ -1,13 +1,11 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+# Critique by Design: MakeOver Monday Assignment 
 
 ## Step one: the visualization
+
+While looking for possible data visualizations 
+
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
@@ -15,6 +13,37 @@ _Include link to the original data visualization (or screenshot - make sure to c
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
 ## Step three: Sketch a solution
+
+Here is the first draft of the data visualization I prepared with the data set. 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tableau Visualization</title>
+    <style>
+        iframe {
+            width: 100%;
+            height: 700px;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <h2>A Plain Slice Now Costs More than a Metro Card Swipe</h2>
+    <p>By: Rebeca Varela</p>
+    <p>Source: <a href="https://elkue.com/nyc-slice/" target="_blank">Quigley, Liam - NYC Slice</a></p>
+    
+    <iframe src="https://public.tableau.com/views/makeovermondaywip_v2024_3/Sheet1?:showVizHome=no&:embed=true"
+            allowfullscreen>
+    </iframe>
+</body>
+</html>
+
+### AI Discalimer
+
+Chat GBT was used as Tech Support to aid with embedding. 
 
 ## Step four: Test the solution
 
