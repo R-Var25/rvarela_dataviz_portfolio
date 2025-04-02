@@ -96,14 +96,7 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 
- <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tableau Embed</title>
-</head>
-<body>
+
 
     <div class='tableauPlaceholder' id='viz1743622612949' style='position: relative'>
         <noscript>
@@ -143,8 +136,6 @@ _Include and describe your final solution here. It's also a good idea to summari
         vizElement.parentNode.insertBefore(scriptElement, vizElement);
     </script>
 
-</body>
-</html>
 
 
 
