@@ -25,18 +25,7 @@
     </object>
 </div>
 
-<script type="text/javascript">
-    document.addEventListener("DOMContentLoaded", function () {
-        var divElement = document.getElementById("vizContainer");
-        var vizElement = divElement.getElementsByTagName("object")[0];
-        vizElement.style.width = "100%";
-        vizElement.style.height = (divElement.offsetWidth * 0.75) + "px";
-
-        var scriptElement = document.createElement("script");
-        scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v3.js";
-        document.body.appendChild(scriptElement);
-    });
-</script>
 
 
-## AI Disclaimer: Chat GBT used as Tech Support to Solve Embedding Issue
+
+#### AI Disclaimer: Chat GBT used as Tech Support to Solve Embedding Issue
