@@ -65,7 +65,7 @@ Here is the first draft of the data visualization I prepared with the dataset.
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-  
+To create my visualization, I decided that Tableau would be the best tool. While I did have the inital idea of improving on the map, I decided that it did not fit for the narrative I wanted to tell. 
 
 
 
