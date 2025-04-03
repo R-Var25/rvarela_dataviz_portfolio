@@ -65,6 +65,9 @@ Here is the first draft of the data visualization I prepared with the dataset.
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+
+
+
 To create my visualization, I decided that Tableau would be the best tool. While I did have the initial idea of improving on the map, I decided that it did not fit the narrative I wanted to tell. Since the audience of the original visualization was New Yorkers, I decided to appeal to the audience as much as possible with two things that are synonymous with the city, one being pizza, of course, and the second being the MTA, the Metropolitan Transit Authority, specifically the MetroCard. So, I decided the best course of action that would tie these two things in one narrative was the use of a combined line and bar chart. The line would display the average price of a Plain Slice over the years, and the bars would display the number of pizza parlors that changed their price within the year. The MTA Base Fare or MetroCard information has remained relatively constant over the years, so I placed the information on top. I changed the color scheme to orange and blue for better contrast and to make it more visibly accessible. I also finally gave it a title that would reflect the story I am trying to tell.  
 
 
@@ -102,9 +105,8 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
-
+The following is my final data visualization for this assignment: 
 
 
    <div class='tableauPlaceholder' id='viz1743625359236' style='position: relative'>
@@ -145,16 +147,30 @@ _Include and describe your final solution here. It's also a good idea to summari
 </script>
 
     
+When I was younger, I often heard that a slice of pizza costs the same as a swipe of a MetroCard. Growing up, we often paid each other back for swipes by buying each other a slice. Over the years, I began to realize that the old anecdote was no longer true, and that my friends and I would be overpaying each other for a fare on the MTA. A plain slice of pizza has been a staple food of New York for a long time. It is a part of our culture. A slice of pizza was often seen as a cheap meal that would be able to fill you up, making it the perfect food for students coming out of school. After all these years, Pizza is now expensive. Many students can no longer afford to eat it every day, and now it is only eaten maybe once a week at most. Pizza, just like NYC, has slowly become more and more unaffordable for its residents. 
 
 
+The hardest part of this process was narrowing down the most relevant information. I initially believed that showcasing the number of pizza shops changing their prices per year was an important data point. However, after interviews with my classmates who have a data background, I realized that it was superfluous as it did not add to the story I wanted to tell. One of my classmates reminded me that inflation is a thing, so a single shop is not that relevant, i.e., correlation does not equal causation. However, a trend of increasing prices is relevant, as it tells us that there are possible underlying factors that are influencing this pattern. 
+
+I wanted to appeal to my home base as the primary audience for these data visualizations, New Yorkers. So, I made the visual as simple as I possibly could, having the audience be completely surprised by the information being shown and understand that their home is slowly becoming more out of reach per year.
+
+While I did end this assignment on a somber note, I had a great time creating this data visualization. It has let me see how powerful and simple graph can be. 
 
 
 
 
 
 ## References
-_List any references you used here._
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+ Sources:
+
+Sources:
+Oldenburg, Ben. “NYC Transit Fare History.” Observable, August 16, 2023. https://observablehq.com/@benoldenburg/nyc-transit-fare-history. 
+
+Quigley, Liam. “NYC Slice.” Liam Quigley. Accessed March 29, 2025. https://elkue.com/nyc-slice/. 
+ 
+
+## AI Acknowledgements
+
+Chat GBT was used as Tech Support to aid in embedding the visualizations seen above. 
 
