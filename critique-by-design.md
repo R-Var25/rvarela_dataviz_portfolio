@@ -72,7 +72,7 @@ To create my visualization, I decided that Tableau would be the best tool. While
 
 
 
-## Step four: Test the Solution
+## Step Four: Test the Solution
 
 On Monday, March 31st, our class had a MakeOver Monday Session. This was an exercise in class where we reviewed each other's first drafts of our solutions to our original data visualizations. We were each placed into separate groups, and we interviewed each other with questions on our data visualizations. I was placed in group four, where I was the only MEIM while the rest were MSPPM students in their mid-twenties who came from heavy data experience. Here were the five questions I asked them all:
 
@@ -87,39 +87,17 @@ As you could probably infer, great minds do think alike, especially those who co
 
 Below are the answers they gave me:
 
-1. The bars
-2. No there is too
+1. The bars. The bars. The bars
+2. No, there is too much going on. Too much information. I can't tell what's going on.
+3. Why is the no MetroCard Data on the chart if it's in the title? (I then point it out near the title.) Why is it not in the chart?
+4. You're appealing to New Yorkers, right, like the Foodies in particular.
+5. Actually, put the MetroCard information in the chart. Get rid of the bars, please.
+
+
+The main pattern in this feedback was the overall lack of comprehension and clutter. So, with that now under my belt, it is time to go back to the drawing board. 
 
 
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Questions | Interview 1 | Interview 2 |Interview 3 
-|----------|--------------|-------------|-------------|
-|          |              |             |
-|          |              |             |
-|          |                  |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
 ## Step Five: Build the Solution
 
