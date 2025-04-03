@@ -65,7 +65,7 @@ Here is the first draft of the data visualization I prepared with the dataset.
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-To create my visualization, I decided that Tableau would be the best tool. While I did have the inital idea of improving on the map, I decided that it did not fit for the narrative I wanted to tell. 
+To create my visualization, I decided that Tableau would be the best tool. While I did have the initial idea of improving on the map, I decided that it did not fit the narrative I wanted to tell. Since the audience of the original visualization was New Yorkers, I decided to appeal to the audience as much as possible with two things that are synonymous with the city, one being pizza, of course, and the second being the MTA, the Metropolitan Transit Authority, specifically the MetroCard. So, I decided the best course of action that would tie these two things in one narrative was the use of a combined line and bar chart. The line would display the average price of a Plain Slice over the years, and the bars would display the number of pizza parlors that changed their price within the year. The MTA Base Fare or MetroCard information has remained relatively constant over the years, so I placed the information on top. I changed the color scheme to orange and blue for better contrast and to make it more visibly accessible. I also finally gave it a title that would reflect the story I am trying to tell.  
 
 
 
