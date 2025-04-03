@@ -83,7 +83,12 @@ On Monday, March 31st, our class had a MakeOver Monday Session. This was an exer
 5. What would you do differently?
 
 
+As you could probably infer, great minds do think alike, especially those who come from a similar background. Every one of my group mates gave me the same answers. While this might not seem that helpful on the surface, it was incredibly insightful, as someone with no data background, I was having trouble deciding what was important and necessary to my story. Having people point out the fluff had me focus on what was actually important. 
 
+Below are the answers they gave me:
+
+1. The bars
+2. No there is too
 
 
 
