@@ -27,7 +27,7 @@ There were three main issues that I had with this data visualization:
 
 
 
-## Step Three: Sketch a solution
+## Step Three: Sketch a Solution
 
 Here is the first draft of the data visualization I prepared with the dataset. 
 
@@ -72,7 +72,20 @@ To create my visualization, I decided that Tableau would be the best tool. While
 
 
 
-## Step four: Test the solution
+## Step four: Test the Solution
+
+On Monday, March 31st, our class had a MakeOver Monday Session. This was an exercise in class where we reviewed each other's first drafts of our solutions to our original data visualizations. We were each placed into separate groups, and we interviewed each other with questions on our data visualizations. I was placed in group four, where I was the only MEIM while the rest were MSPPM students in their mid-twenties who came from heavy data experience. Here were the five questions I asked them all:
+
+1. What you you see?
+2. What do you understand in front of you?
+3. Is there anything that is bothering you about the visual?
+4. Who do you think the audience is?
+5. What would you do differently?
+
+
+
+
+
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
 
@@ -93,11 +106,11 @@ Results:
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+| Questions | Interview 1 | Interview 2 |Interview 3 
+|----------|--------------|-------------|-------------|
+|          |              |             |
+|          |              |             |
+|          |                  |             |
 
 Synthesis: 
 
