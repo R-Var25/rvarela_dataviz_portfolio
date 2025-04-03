@@ -103,7 +103,7 @@ Synthesis:
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
-## Step five: build the solution
+## Step Five: Build the Solution
 
 
 The following is my final data visualization for this assignment: 
@@ -145,6 +145,10 @@ The following is my final data visualization for this assignment:
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+
+
+
 
     
 When I was younger, I often heard that a slice of pizza costs the same as a swipe of a MetroCard. Growing up, we often paid each other back for swipes by buying each other a slice. Over the years, I began to realize that the old anecdote was no longer true, and that my friends and I would be overpaying each other for a fare on the MTA. A plain slice of pizza has been a staple food of New York for a long time. It is a part of our culture. A slice of pizza was often seen as a cheap meal that would be able to fill you up, making it the perfect food for students coming out of school. After all these years, Pizza is now expensive. Many students can no longer afford to eat it every day, and now it is only eaten maybe once a week at most. Pizza, just like NYC, has slowly become more and more unaffordable for its residents. 
