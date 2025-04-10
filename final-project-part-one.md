@@ -32,19 +32,27 @@ Text here...
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
+
+
+
+
+
+
+
+
 | Name | URL | Description |
 |------|-----|-------------|
 |      |     |             |
 |      |     |             |
 |      |     |             |
 
-# Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+# Method and Medium
 
-Text here...
+
+This final project will be completed through the use of Tableau, specifically a Tableau dashboard. The reason that I chose Tableau is that it is a great tool for synthesizing data, allowing me to choose the points that I want to highlight, which in turn lets me tell the narrative I want. The use of the dashboard feature allows me to use multiple data visualizations, with each addressing a certain part of the overall story I am trying to tell, such as the contrast in movie theater numbers and Netflix subscribers and the revenue of NYC theaters over the years. While it would be great to publish these data visualizations from Tableau to ShortHand, I am still concerned about the FERPA Consent, as I would like my work to be private and only showcased to those whom I grant access to. If that issue is to be addressed, then I would be open to publishing my project on ShortHand. 
 
 ## References
-_List any references you used here._
+All the sources for the chosen data sets are provided above in the data section. 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+None. 
