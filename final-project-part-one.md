@@ -28,23 +28,68 @@ There would be one aspect of the project that would be highly centralized among 
 # The Data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+To convey the decline of the movie theater over the past decade, one must have evidence. The evidence in this case would be the data sources documenting the declining sales and attendance of movie theaters. Since movie theaters themselves are a global industry, it would be too wide a scope to cover the entire planet and downright impossible. So, to come up with a better, more comprehensible story, I decided to put focus on the United States, as they are the largest box office and content producer of the Western World, with many of their films becoming worldwide staples. So, to see the decline in the theater business, we will first take a look at the domestic box office over the past decade. This would then be followed by a look at the number of AMC Theaters over the past decade and the number of tickets sold at these theaters over the same amount of time. Lastly, we will examine the yearly revenue of AMC as a whole and how it has performed over the past decade. 
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+To fully grasp the magnitude of the dismal performance of movie theaters, there needs to be something to compare it to. This is where Netflix comes to play. It is common knowledge that streaming has become the preferred method of entertainment for many. This is in sharp contrast to the past, where movie theaters were the main source of entertainment for films. Streaming has been pulling in significant numbers over the year, steadily increasing in both viewership and revenue. This is something that many members of the audience know of and have contributed to in some way. By putting all the information on display, the audience can see how a substantial change in habits could lead to the death of an entire medium if they do not act. By showing how gigantic and rich Netflix is, it would help inspire them to support their movie theaters, or else their key memories and experiences will not be there for the next generation. 
 
-
-
-
-
+Cuurent Brainstorming:
+The centralized part of my project will focus on the movie theater scene in NYC and how it interacts with the neighborhood it resides. There are many AMC Theaters in NYC. However, there is one that will always hold a special place in my heart: Times Square. However, it has been quite a difficult task to collect data on that particular theater. To combat this, I am exploring any other possible data sets that will provide the information I need, or I will change my focus to another AMC in the NYC Metroplitan Area. 
 
 
 
+>  The Following is a List of the Current Data Sets I Am Using for this Project
+> NOTE: Keep in Mind that this List is Ever Changing (WIP)
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+# First Data Set 
+Name: Statista
+
+Links:
+https://www.statista.com/statistics/687626/amc-theatres-numbers/
+https://www.statista.com/statistics/206966/total-attendance-at-amc-theatres/
+
+
+Description: The Number of AMC Theaters worldwide over the past decade, which can be broken down by region. 
+
+# Second Data Set
+
+Name: Statista
+
+Links:
+https://www-statista-com.us1.proxy.openathens.net/statistics/250937/quarterly-number-of-netflix-streaming-subscribers-in-the-us/
+
+
+Description: Number of Netflix Paid Subscribers over the past decade. 
+
+# Third Data Set
+
+Name: Box Office Mojo
+
+Links: 
+https://www.boxofficemojo.com/year/
+
+Description: The yearly box office of the domestic (US) market over the past decade which includes total gross, releases, and #1 Release. 
+
+# Fourth Data Set
+
+Name: macrotrends
+
+Links: 
+
+https://www.macrotrends.net/stocks/charts/AMC/amc-entertainment-holdings/revenue
+
+Description: The AMC company's revenue over the last decade. 
+
+# Fifth Data Set 
+
+Name: Business of Apps
+
+Links:
+https://www.businessofapps.com/data/netflix-statistics/
+
+Description: Netflix Revenue and Usage Statistics over the past decade. 
+
+
+
 
 # Method and Medium
 
