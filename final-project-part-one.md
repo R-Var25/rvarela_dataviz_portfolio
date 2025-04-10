@@ -4,7 +4,9 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
+> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project.
+
+One of the most memorable experiences in my childhood was going to the movies. After getting into a velvet chair, rummaging for 45 seconds looking for the biggest popcorn kernel, the lights go down, and you get transported into another world. That experience, that 
  
 Text here...
 
@@ -17,7 +19,7 @@ Text here...
 
 Text here...
 
-# The data
+# The Data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 Text here...
