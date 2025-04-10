@@ -18,9 +18,12 @@ There would be one aspect of the project that would be highly centralized among 
 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+> Here are sketches of my anticipated data visualizations. The first one is the outline of my story, which I will try to follow. The second one is brainstorming the current data visualizations I have in mind to tell the narrative of declining movie theaters.
+> The First Sketch
+![IMG_6944.jpg](IMG_6944.jpg)
+> The Second Sketch
+![FullSizeRender.jpg](FullSizeRender.jpg)
 
-Text here...
 
 # The Data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
