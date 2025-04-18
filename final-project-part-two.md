@@ -7,11 +7,28 @@ The Following is the Link to My Shorthand Presentation:
 
 https://preview.shorthand.com/xOQTEDDDywbUbyWa
 
+The Following are the Links to the Current Visualizations I plan to Have on my Shorthand Presentation as I switch from intial Tableau Dashboard Idea:
+
+https://public.tableau.com/views/topboxofficeperformers_v2024_3/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/AMCvsNetflix-Revenue/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/AMCAttendancevsNetflixSubscribers_v2024_3/Sheet2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
 ## Storyboard 
 
 Introduction: 
 
-I planned to open up with a personal annecdote on one of my fondest memories tied to the AMC Theater at Times Square
+I plan to open up with a personal annecdote on one of my fondest memories tied to the AMC Theater at Times Square. This would then tie into the 
+
+Rising Action:
+
+Climax:
+
+
+Falling Action:
+
+Call to Action: 
+
 
 
 
@@ -108,22 +125,32 @@ Text here!
 
 
 ## Research Synthesis
->Findings or observations from interviews                                               |
+> Some observations gathered from the conducted interviews.
+
+There was a positive sentiment from the visualizations that common between all three interviews. Having people of different disciples and perspectives really did help with understanding where the narrative is strong and where it needs to be improved on. 
+
+The overall message recieved from each interviewe was that the all understood what each visual was showcasing and how they tied into the overall narrative of the declining movie theater industry in contrast to the rise of streaming, in this case Netflix. They were able to comprehend that movie theater revenue has been on the decline throughout the past decade and that viewership has not been consistent. Meanwhile, Netflix's revnue has increased exponetially and its subscribers keep on grown consistently. They were particulary interested in the notable differences between pre-COVID movie going and post-COVID movie going and how that has played a huge factor in the undoing of a century old business. 
+
+While most of the comments were positive, there were some suggestions made that could improve the overall story telling and help make the call to action that much stronger. The first suggestion was to edit the visualizations a bit more, spefically to have more clear labels for each axis. The second would be the further depth of provided context, as while there is enough information provided to understand what is being shown, it is still taking a lot of time to think, making it a bit more difficult to fully comprehend the final message and take in the call to action. The third suggestion would be using more visual aids besides graphs to better express the story being told, as while the graphs are powerful, having them one after another with no room in between can be overwhelming. 
+
+One interviewe brought up a question on seeing the cost differences between Netflix subscriptions and Movie Tickets over the decade could add another element on the decline of movie theaters. So, I could add another graph abou that later if I choose to lean towards the finacial aspects of my call to action. The call to action was popular and made impact on most of my interview subjects, as it got them to start to think about what still makes them go to the movies. (All except one who rarely ever goes out.) 
 
 
 
 
 
 ## Anticipated Changes for Part III  
->Describe what, if any changes you anticipate making to address the observation.
+
+The critiques I recieved were quite constructive, letting me know what I need to address to have a better and more cohesive story to tell. There are three main thing that I will be ammending:
+1. Refer back and see if each axis is doing its job.
+2. Providing deeper context to the data being showcased on the graph.
+3. Choosing more enagaing visual. Perhaps having an ending photo or visualization that sums up the entire story and ties everything together at the end.
+
+As I said in Part 1, my intial storytelling method of choice was a Tableau Dashboard of different data visualizations. However, after all the feedback from the interviews, I have decided it would be in my best interest to switch to Shorthand, as it allows me space to express all the avenues I wish to explore. Nevertheless, there are still many complecations to this. I have had a hisory of issues with embedding in the past. So, I will need to have a contingency plan if my graphs are having issues with another platform. For these cases, I will be shore to take screenshots of my work and place them on the presentation so they at least can be seen. I will then provide the link for each graph, allowing the audinece to interact with the data being showcased. 
+
+For Part III, my current game plan is to ploish up my current visualizations and possibly add one of two more to round out the story. I will complete my Shorthand presentation and prepare to showcase my work in front of the class. 
 
 
-
-
- 
-> ...include any final thoughts you have here. 
-
-Text here!
 
 
 ## References
