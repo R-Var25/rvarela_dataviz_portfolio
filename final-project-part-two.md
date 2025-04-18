@@ -138,9 +138,6 @@ To better understand the effectivness of my visualizations, I decided to reach o
 
 
 # Identified Changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 
 ## Research Synthesis
