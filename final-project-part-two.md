@@ -62,28 +62,40 @@ To better understand the effectivness of my visualizations, I decided to reach o
 #### Interview 1: Actor 
 
 1. My initial thoughts are that these graphs are comparing the declining performance of movies at movie theaters from the past several years compared to the steady increase of Netflix subscribers. The first graph compares the total gross of big box office successes from the past two decades; this serves to highlight a correlation between the colossal success of movie theater releases from the 2000s until the late 2010s to their steady decline post-2020. The second graph shows the increase in Netflix revenue from 2017-2024. The third graph compares the steady amount of subscribers maintained by Netflix versus the steep decline in AMC attendance, which has slowly increased in the years following the pandemic but has never returned to its pre-pandemic high. 
+
 2. What I gathered from these graphs is the biggest box office performers had the largest total gross for films released prior to 2019. In 2020, movie theaters like AMC saw a steep decline in attendance due to theaters shutting down during the COVID-19 pandemic. Attendance never returned to it’s pre-pandemic high, while Netflix has steadily gained subscribers over the past several years. It tells a clear and compelling story; Netflix has maintained a steady amount of subscribers that sustained through the pandemic due to its lower cost and the convenience of being able to watch from anywhere. AMC, on the other hand, lost audiences that it has never been able to fully recoup in the years following the pandemic.
+
 3. I was able to follow along with the story these graphs were trying to tell just fine. The graphs are concise and highlight the continued steady success of Netflix with the decline in movie theater attendance. 
+
 4. Something that stood out to me that this graph made clear is how even big box offices successes in the years following the pandemic never quite reached the total gross that successful movies gained prior to the pandemic. Even films like Barbie and Inside Out 2 that became cultural phenomenons didn’t outperform films that came out in the latter half of the 2010s like Finding Dory and Star Wars Episode VIII. One additional bit of info that might be interesting to include could be the cost of Netflix over this time versus the price of movie theater tickets during this same time period. How many people are now waiting for these movies to come out on Netflix and streaming instead due to the cost of movie tickets?
+
 5. Overall, these graphs tell a compelling story about the rise of streaming services and the decline in movie theater attendance. As someone who loves going to the movies, I find this story particularly compelling because I worry about losing the magic of experiencing films for the first time and the magic and connection that comes when you experience that with other human beings.
 
 
 #### Interview 2: Computer Scientist 
 
 1. Title is descriptive and helps me understand what the graph is of. The clusters are also easy to visualize.
+  
 2. Together the visuals tell a story of changing entertainment industry dynamics—traditional box office successes contrasted with the rise of streaming giants. The contrast between the scatter of yearly blockbusters and the consistent climb of Netflix revenue makes the story clear and impactful.
-3. The bubble chart does not have axis labels. And for the Line chart, the label “Avg. Revenue in Millions” could be more specific- as in if it is talking about AMC’s revenue or total revenue
+   
+3. The bubble chart does not have axis labels. And for the Line chart, the label “Avg. Revenue in Millions” could be more specific- as in if it is talking about AMC’s revenue or total revenue.
+  
 4. How Netflix's revenue outpaces AMC’s so dramatically, especially after 2018. It shows a clear turning point in consumer behavior. I’d be curious to learn about what content or strategies fueled Netflix’s biggest revenue jumps and how AMC tried to respond during those years.
+  
 5. The visuals together paint a strong picture of how audience preferences and industry revenue streams have evolved over time. The contrast between box office hits and streaming growth leaves a lasting impression about the shifting future of entertainment.
 
 
 
 #### Interview 3: Business Student  
 
-1. It seems like while box office has been dominating the past decade, this has now changed with the rise of Netflix. The popularity of box office is falling while it seems like Netflix is gaining more in revenue and subscribers. 
-2. Theaters should find a way to gain back its past glory. Yes. 
+1. It seems like while box office has been dominating the past decade, this has now changed with the rise of Netflix. The popularity of box office is falling while it seems like Netflix is gaining more in revenue and subscribers.
+   
+2. Theaters should find a way to gain back its past glory. Yes.
+   
 3. No. No.
+   
 4. It was interesting to see theaters were able to bounce back a little after Covid but the questions remains if it could go back to the way it is before.  Maybe a final picture to tie in the overall message together.
+   
 5. The graphs provides a final message showing that box office has been on the decline while streaming has been on the rise. Personally, no because I don’t go to theaters to begin with. 
  
 
