@@ -1,7 +1,6 @@
 | [home page](https://r-var25.github.io/rvarela_dataviz_portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / Storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+# Wireframes
 
 The Following is the Link to My Shorthand Presentation: 
 
@@ -14,24 +13,44 @@ https://public.tableau.com/views/AMCvsNetflix-Revenue/Sheet1?:language=en-US&:si
 https://public.tableau.com/views/AMCAttendancevsNetflixSubscribers_v2024_3/Sheet2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
-## Storyboard 
+# Storyboard 
 
-Introduction: 
+## Introduction: 
 
-I plan to open up with a personal annecdote on one of my fondest memories tied to the AMC Theater at Times Square. This would then tie into the 
+I plan to open up with a personal annecdote on one of my fondest memories tied to the AMC Theater at Times Square. This would then tie into the examining of the entire neighborhood around the theater and the overall decline of the theatrical industry has impacted everyone on the local level. 
 
-Rising Action:
-
-Climax:
-
-
-Falling Action:
-
-Call to Action: 
+### Update:
+Due to the change in audience for the project, I will no longer center the narrative on the theatrical industry and the health of Times Square and the community around it. However, I will use my memory of the movies in Time Square to engage with the audience, helping them remember a key memory of their time at the movies. It will allow everyone to connect and spread good feelings before the depressing information that will come later. 
 
 
+## Rising Action:
+
+There will be a shift in the story, as I ask those movie going public to come on a journey to see what the Movie Theater Industry currently looks like. We will take the joy from their childhood and build in suspense, placing the audinece on emotional roller coaster. 
+
+### Update:
+There will be NO CHANGE to this progression as it helps to build momementum for the call to action. 
+
+## Climax:
+
+We then show the audience a raw look at the current state of the theatrical industry. How a century old business is slowly crumbling away, being beaten by a beheamouth with exponental revenue growth and steady subscribership, Netflix. We are introducing them to a world where it is possible that there will be no movie theaters in a few years, leading to the loss of many jobs, the crumbling of neighborhoods, and the loss of a collective cultural experience. 
+
+### Update:
+While the overall progression won't change, the excecution of it will, as we now have a different audience. While we still focus on the possible loss of the movie theater experience, it will be more in the context of loosing revenue and jobs for AMC employees and shareholders. 
 
 
+## Falling Action:
+
+We begin to show the audinece what they can do to save the movie experience by showcasing recent viral moments inspired by them enagaging with the movies. 
+
+### Update: 
+We show our new audience the most successful Theatrical Releases post-COVID and paint a picture of a pattern they all have in common, they were all huge cutural events. This will be done by using social media posts of people attending these movies, show how the audience engages with these cultural events. 
+
+## Call to Action: 
+
+GO TO THE MOVIES!!!!!!
+
+### Update:
+Changed to: MAKE MOVIES AN EVENT! CREATE FOMO! WE ONLY LIVE ONCE, SO EXPEIRENCE ONE OF THE FEW COMMUNIAL CULTURAL MOMEMNTS LEFT.
 
 
 
