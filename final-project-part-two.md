@@ -139,7 +139,6 @@ To better understand the effectivness of my visualizations, I decided to reach o
 
 # Identified Changes for Part III
 
-
 ## Research Synthesis
 > Some observations gathered from the conducted interviews.
 
@@ -150,9 +149,6 @@ The overall message recieved from each interviewe was that the all understood wh
 While most of the comments were positive, there were some suggestions made that could improve the overall story telling and help make the call to action that much stronger. The first suggestion was to edit the visualizations a bit more, spefically to have more clear labels for each axis. The second would be the further depth of provided context, as while there is enough information provided to understand what is being shown, it is still taking a lot of time to think, making it a bit more difficult to fully comprehend the final message and take in the call to action. The third suggestion would be using more visual aids besides graphs to better express the story being told, as while the graphs are powerful, having them one after another with no room in between can be overwhelming. 
 
 One interviewe brought up a question on seeing the cost differences between Netflix subscriptions and Movie Tickets over the decade could add another element on the decline of movie theaters. So, I could add another graph abou that later if I choose to lean towards the finacial aspects of my call to action. The call to action was popular and made impact on most of my interview subjects, as it got them to start to think about what still makes them go to the movies. (All except one who rarely ever goes out.) 
-
-
-
 
 
 ## Anticipated Changes for Part III  
