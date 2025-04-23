@@ -4,7 +4,7 @@
 
 The Following is the Link to My Shorthand Presentation: 
 
-https://preview.shorthand.com/xOQTEDDDywbUbyWa
+https://preview.shorthand.com/PyooUgEmM8nQeQZe
 
 The Following are the Links to the Current Visualizations I plan to Have on my Shorthand Presentation as I switch from intial Tableau Dashboard Idea:
 
