@@ -62,8 +62,7 @@ The theatrical model is on the decline in the new era, so to remain relevant, mo
 Here's a picture of my favorite ice cream in the whole world.  
 
 ![IMG_0647.heic](IMG_0647.heic)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
+
 ## References 
 All used works have been cited in the corresponding assignments. 
 
