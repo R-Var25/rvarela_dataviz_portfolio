@@ -18,6 +18,19 @@ All the things - obviously. However, there are three main objectives I want to a
 
 I am currently interested in working in the world of Film and Television through development and acquisitions, with a specialization in adaptations of prior existing media such as novels and games. However, I am open to working in a multitude of industries and disciplines, as I have way too many interests that I would like to follow.     
 
+# UPDATE: Post Course
+
+## Tools
+The following are the tools we used throughout the entire course:
+1. Tableau
+2. Github
+3. Data Wrapper
+4. Basic Design Principles
+5. Basic HTML and CS
+6. Various Critique Methodologies
+
+## What I learned
+The main takeaway from this class is that data is not meant to be gatekept for those with years of experience. Data is everywhere, and it is always telling us about the world we live in. There is always a story waiting to be told, and there is always evidence to enhance what is being told. This course also emphasized the importance of details, such as how the use of the wrong color could throw off your entire narrative, defeating the purpose entirely. While my career aspirations are not in tech, I will utilize the skills I have learned to sharpen my toolbox and better improve the creative industries I aspire to be a part of. 
 
 
 # Portfolio
@@ -27,16 +40,12 @@ I am currently interested in working in the world of Film and Television through
 Telling Stories with Data had us create different data visualizations to enhance diverse narratives. Here is what we have made in the course.  
 
 ### First Assignment: [Visualizing Government Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
-
-visualizing-government-debt
-
 
 ### Second Assignment: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ### Final Project
-Here it might be helpful to include a high-level description of your final project. 
+A Shorthand Presentation Titled: Movie Theaters Need to Adapt
+The theatrical model is on the decline in the new era, so to remain relevant, movie theaters need to find new ways to stand out.
 
 #### Final Project: Part 1
 [Part I](final-project-part-one)
@@ -47,70 +56,18 @@ Here it might be helpful to include a high-level description of your final proje
 #### Final Project: Part 3
 [Part III](final-project-part-three)
 
----
-## Other stuff you can do (you can remove this section - it's just for your reference.)
 
-### Changing text
+### Images
 
-You can change text, like this: 
-
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
-
-### Creating tables
-
-You can build tables like this: 
-
-| Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
-|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
-| Eli          | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
-| Howard       | dog         | You                 | You    | You             | Eating                              |
-| Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
-
-An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
-
-You can use different headings, like this: 
-
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
-
-### Adding images
-
-Here's an example of how to add an image to my portfolio.  
+Here's a picture of my favorite ice cream in the whole world.  
 
 ![IMG_0647.heic](IMG_0647.heic)
 > Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
+## References 
+All used works have been cited in the corresponding assignments. 
 
-Alternately, you can set the size of the image using just a bit of HTML: 
+## AI Acknowledgement 
+Chat GBT was used throughout the course as tech support to aid with embedding on multiple platforms. 
 
-<img src="funny-dog-unsplash.jpg" width="200"/>
-
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
-
-### Setting up a separate page
-
-So here's the code you'll need to add to your own site to create a second page. 
-
-1. First, create a new page in your repository (for example, dataviz1.md)
-2. Next, add a link to that page by inserting the following into your readme.md page:
-
-`[title](dataviz)` or `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` or `[CMU](https://www.cmu.edu)`
-
-Any of those formats will work. Here's some examples of working links: 
-
-`[title](dataviz)` = [title](dataviz)  
-`[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
-`[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
-
-Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
-
-Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
-
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
