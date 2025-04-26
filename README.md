@@ -45,7 +45,7 @@ Here it might be helpful to include a high-level description of your final proje
 [Part II](final-project-part-two)
 
 #### Final Project: Part 3
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
